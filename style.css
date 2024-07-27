@@ -1,0 +1,40 @@
+.nav{
+    background: blue;
+    color: white;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+}
+
+.nav li{
+    float: left;
+    padding: 14px 16px;
+}
+
+.nav li:hover{
+    background: green;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+}
+
+img{
+    margin: 15px;
+    width: 60%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    align-items: center;
+    margin: 0 auto;
+}
+

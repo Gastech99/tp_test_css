@@ -17,7 +17,7 @@
 }
 
 .nav li:hover{
-    background: green;
+    background: rgb(241, 109, 7);
     border-radius: 10px;
     cursor: pointer;
 }
